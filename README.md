@@ -1,4 +1,4 @@
-# Compact Anger Detection Device Using Real-Time Voice Analysis
+# Compact near Real-Time Anger Detection System through Voice Analysis Implemented on ESP32 Microcontroller
 
 This project presents the development of a compact device designed to detect the emotion of anger through real-time voice analysis.
 
