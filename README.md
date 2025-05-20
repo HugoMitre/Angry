@@ -18,6 +18,9 @@ The system achieves a total processing time of **676.41 milliseconds** after cap
 <img src="./Diagrama_general.png" alt="Diagram of the operation of the device"
 width="450px"></p>
 
+## Cite this paper (Pending final format IEEE Transactions on Instrumentation & Measurement)
+Compact near Real-Time Anger Detection System through Voice Analysis Implemented on ESP32 Microcontroller, Fernandez-Morales, Mitre-Hernandez, Lara-Alvarez, De-La-Torre-Gutierrez and Jaramillo-Avila (2025). IEEE Transactions on Instrumentation & Measurement. 
+
 ## Audio Analysis
 
 The audio analysis process in this project extracts **Mel-Frequency Cepstral Coefficients (MFCCs)**, which are widely used in speech and audio processing due to their ability to represent the perceptual aspects of human hearing. Below is a summary of the key steps involved:
